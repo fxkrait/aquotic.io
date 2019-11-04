@@ -1,1 +1,1 @@
-# acquotic.io
+# aquotic.io
